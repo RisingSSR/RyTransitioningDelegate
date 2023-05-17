@@ -1,0 +1,22 @@
+{
+  "name": "RyTransitioningDelegate",
+  "version": "0.1.0",
+  "summary": "普通的弹起present动画",
+  "description": "利用封装继承和多态性，封装了一个present弹起动画。",
+  "homepage": "https://github.com/RisingSSR/RyTransitioningDelegate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RisingSSR": "2769119954@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/RisingSSR/RyTransitioningDelegate.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "RyTransitioningDelegate/Classes/**/*"
+}

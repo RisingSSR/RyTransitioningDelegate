@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RyTransitioningDelegate'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RyTransitioningDelegate.'
+  s.summary          = '普通的弹起present动画'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+利用封装继承和多态性，封装了一个present弹起动画。
                        DESC
 
   s.homepage         = 'https://github.com/RisingSSR/RyTransitioningDelegate'
@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/RisingSSR/RyTransitioningDelegate.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'RyTransitioningDelegate/Classes/**/*'
   
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'RyTransitioningDelegate' => ['RyTransitioningDelegate/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'RyTransitioningDelegate/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

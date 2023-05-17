@@ -1,0 +1,16 @@
+PODS:
+  - RyTransitioningDelegate (0.1.0)
+
+DEPENDENCIES:
+  - RyTransitioningDelegate (from `../`)
+
+EXTERNAL SOURCES:
+  RyTransitioningDelegate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RyTransitioningDelegate: 133fbc15b4a2f7abbc14ceed5b497aac2963675b
+
+PODFILE CHECKSUM: 23287631ee7e5e6cd9223aad2fd6306292d5e906
+
+COCOAPODS: 1.12.1

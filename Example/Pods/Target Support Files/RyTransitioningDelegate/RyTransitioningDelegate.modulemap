@@ -1,0 +1,6 @@
+framework module RyTransitioningDelegate {
+  umbrella header "RyTransitioningDelegate-umbrella.h"
+
+  export *
+  module * { export * }
+}

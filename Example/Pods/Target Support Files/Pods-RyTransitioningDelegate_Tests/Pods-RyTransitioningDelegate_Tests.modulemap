@@ -1,0 +1,6 @@
+framework module Pods_RyTransitioningDelegate_Tests {
+  umbrella header "Pods-RyTransitioningDelegate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
